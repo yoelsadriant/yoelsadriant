@@ -15,12 +15,30 @@ Before that: network automation for APAC telecoms at Data Ductus, a full on-prem
 
 ## Stack
 
+**Primary**
 ```
-Languages   TypeScript · Node.js · Python · Go · Java · Rust
-AWS         Lambda · API Gateway · DynamoDB · Kinesis · SQS · SNS
-            OpenSearch · ECS/EKS · CloudFormation · Personalize · Bedrock
-Infra       Terraform · Serverless Framework · Docker · GitHub Actions
-Databases   DynamoDB · Aurora · MySQL · OpenSearch · Elasticsearch
+TypeScript · Node.js · Python · Java · C#
+```
+ 
+**Secondary**
+```
+Go · Rust
+```
+ 
+**AWS**
+```
+Lambda · API Gateway · DynamoDB · Kinesis · SQS · SNS
+OpenSearch · ECS/EKS · CloudFormation · Personalize · Bedrock
+```
+ 
+**Infra**
+```
+Terraform · Serverless Framework · Docker · GitHub Actions
+```
+ 
+**Databases**
+```
+DynamoDB · Aurora · MySQL · OpenSearch · Elasticsearch
 ```
 
 **Certifications:** AWS Solutions Architect – Associate · AWS Developer – Associate
@@ -39,10 +57,10 @@ Instagram-like photo sharing app, fully serverless on AWS. DynamoDB single-table
 
 `TypeScript` `DynamoDB` `S3` `React`
 
-### [Clinic-Backend](https://github.com/yoelsadriant/Clinic-Backend)
+### [Clinic-System](https://github.com/yoelsadriant/Clinic-System)
 Clinic management system ported from Unity desktop app to a modern web stack.
 
-`Java`
+`Java` `Spring`
 
 ---
 
