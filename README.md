@@ -7,7 +7,7 @@
 
 ## What I Build
 
-Event-driven microservices, serverless APIs, and cloud-native infrastructure. Most recently at **BandLab Technologies** (60M+ users) — built a recommendation service from scratch on AWS Personalize with a Kinesis-based ingestion layer, and tuned OpenSearch queries to cut search latency by 60%.
+Event-driven microservices, serverless APIs, and cloud-native infrastructure. Most recently at BandLab Technologies (60M+ users) — built a recommendation service from scratch on AWS with custom Lambda-based recommendation logic and asynchronous data collection pipelines, while optimizing OpenSearch queries to reduce search latency by 60%.
 
 Before that: network automation for APAC telecoms at Data Ductus, a full on-premise → AWS migration at SitesJet, and radar software for the Indonesian Air Force.
 
